@@ -1,0 +1,8 @@
+set nu
+set encoding=utf-8
+set fileencodings=utf-8
+"disable arrow keys
+au BufRead,BufNewFile *.less setfiletype css
+syntax enable
+set background=light
+
